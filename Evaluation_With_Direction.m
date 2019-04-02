@@ -12,6 +12,7 @@ for i = 1 : row
     end
 end
 
-figure(10);
-imshow(mat2gray(image_evaluated));
+figure;
+% imshow(mat2gray(image_evaluated));
+imshow(image_evaluated);
 title(['Evaluation with' num2str(direction_light(1)) num2str(direction_light(2)) num2str(direction_light(3))]);

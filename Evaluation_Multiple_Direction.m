@@ -1,4 +1,4 @@
-function Evaluation_Optimal(image_albedo, normal_surface)
+function Evaluation_Multiple_Direction(image_albedo, normal_surface)
 
 min = 1/0;
 min_light = [0, 0, 0];
