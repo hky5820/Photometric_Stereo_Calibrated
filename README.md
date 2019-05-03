@@ -24,7 +24,7 @@ cropped yale_face_data
 ```
 albedo
 ```
-<img src="https://user-images.githubusercontent.com/24879626/57118451-5fbd1b80-6d9e-11e9-97c1-3d952fe20e3f.png" height="50" width="50%">
+<img src="https://user-images.githubusercontent.com/24879626/57118451-5fbd1b80-6d9e-11e9-97c1-3d952fe20e3f.png" height="50%" width="50%">
 
 ```
 recunstruction
